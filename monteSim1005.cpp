@@ -1,4 +1,4 @@
-﻿//韦布分布 潜在扇区错误  磁盘周期清洗
+//韦布分布 潜在扇区错误  磁盘周期清洗
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
